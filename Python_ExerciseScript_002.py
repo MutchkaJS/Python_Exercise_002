@@ -18,3 +18,5 @@ for i in range(10): # begin creating a series of 10 numbers
     print(f"Current Number {i}, Previous Number {previous}, Sum: {current_sum}")
     previous = i
 
+
+# This is a test to see if changes get resent to GitHub
