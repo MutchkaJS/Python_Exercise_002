@@ -6,4 +6,7 @@ This is the answer to Python Exercise #2, from [Python Exercises for Beginners](
 >&#9500;&#9472;  README.md  
 >&#9500;&#9472;  The Code: Python_ExerciseScript_002.py  
 >&#9500;&#9472;  example use  
->&#9492;&#9472;  requirements.txt  
+>&#9492;&#9472;  requirements.txt
+
+## II. CODE ##
+img width="835" height="396" alt="image" src="https://github.com/user-attachments/assets/c4695332-80ca-42ac-9878-d6437de61943" />
